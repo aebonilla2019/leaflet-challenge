@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 3px;
+ ;
+}
+
+.legend i {
+  width: 20px;
+  height: 18px;
+  float: left;
+  margin: 0 8px 0 0;
+  opacity: 1;
+}
